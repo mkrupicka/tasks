@@ -1,0 +1,33 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="005 VBT" id="0" comment="" altitude="355.0">
+      <Location longitude="16.6186167" latitude="49.8436167"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="026 BOSKOVICE" id="0" comment="" altitude="375.0">
+      <Location longitude="16.6511167" latitude="49.4916667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="14000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="291 N.MESTO" id="0" comment="" altitude="622.0">
+      <Location longitude="16.0808333" latitude="49.5688833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="12000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="295 NAMEST N.H." id="0" comment="" altitude="290.0">
+      <Location longitude="17.0625" latitude="49.5986167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="000 LKMK" id="0" comment="" altitude="403.0">
+      <Location longitude="16.6877833" latitude="49.7983333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="6000.0"/>
+  </Point>
+</Task>
+
